@@ -1,5 +1,3 @@
-import React from "react";
-
 function Questionaire({
   handleAnswer,
   showAnswers,
@@ -13,7 +11,7 @@ function Questionaire({
         <h1 dangerouslySetInnerHTML={{ __html: question }} />
       </div>
       <div className="button-overall">
-        {answers.map((answer, idx) => {
+        {answers.map((answer: any, _idx: any) => {
           const specialClassName = showAnswers
             ? answer === correct_answer
               ? "green-button"
