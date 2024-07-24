@@ -66,7 +66,7 @@ I am using HTML, CSS, React, and TypeScript.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live site on Vercel](https://react-quiz-api-git-main-justin-popes-projects.vercel.app/)
+[Live site on Vercel](https://react-quiz-api-theta.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
