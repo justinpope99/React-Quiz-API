@@ -23,7 +23,6 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <br>
@@ -186,14 +185,6 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give it a star
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank [firepicaso](https://github.com/firepicaso) for providing the README template.
-
-I would also like to thank [Jane Sferrazza](https://github.com/janesferr) for providing the source code for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
