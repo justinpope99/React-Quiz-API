@@ -20,7 +20,7 @@
   - [React + TypeScript + Vite](#vite)
   - [ESLint configuration](#eslint)
 - [📷 Preview](#Preview)
-- [👥 Authors](#authors)
+- [👥 Author](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -29,7 +29,7 @@
 
 # 📖 React Quiz API App <a name="about-project"></a>
 
-In this project, I have created a React app that that uses the [Open Trivia Database API](https://opentdb.com). The app will contain 20 Computer Science related questions in a random order. The answer choices are also in a random order. You will be given a score at the end, once you've completed the quiz.
+In this project, I have created a React app that uses the [Open Trivia Database API](https://opentdb.com). The app will contain 20 Computer Science related questions in a random order. The answer choices are also in a random order. You will be given a score at the end, once you've completed the quiz.
 
 <br>
 
